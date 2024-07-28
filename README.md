@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
