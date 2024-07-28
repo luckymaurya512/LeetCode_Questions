@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
