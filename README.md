@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0027-remove-element) |
+| [0040-combination-sum-ii](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0013-roman-to-integer) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/luckymaurya512/LeetCode_Questions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
